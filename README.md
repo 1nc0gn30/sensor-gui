@@ -24,8 +24,8 @@ sudo sensors-detect
 2. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/sensor-gui.git
-cd heatcheck-gui
+git clone https://github.com/1nc0gn30/sensor-gui.git
+cd sensor-gui
 ```
 
 3. Run the app:
