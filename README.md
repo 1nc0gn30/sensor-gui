@@ -2,7 +2,7 @@
 
 A lightweight real-time CPU temperature and fan speed monitor for Linux, built in Python using Tkinter and `lm-sensors`.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot-sensor-show-gui.png)
 
 ## 🧠 Features
 
@@ -36,7 +36,7 @@ python3 sensor-show.py
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot-sensor-show-gui.png)
 
 ## ⚙️ Built With
 
