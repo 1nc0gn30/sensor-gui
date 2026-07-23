@@ -1,3 +1,41 @@
+# sensor-gui
+
+A project by Neal Frazier
+
+## Overview
+This repository is part of Neal Frazier project collection.
+
+## Tech Stack
+- Python
+
+## Project Structure
+```
+sensor-gui/
+  - 
+  (3 files total)
+```
+
+## Getting Started
+
+### Prerequisites
+- Python 3.10+
+
+### Installation
+```bash
+git clone https://github.com/1nc0gn30/sensor-gui.git
+cd sensor-gui
+pip install -r requirements.txt
+```
+
+### Run
+```bash
+python main.py
+```
+
+## Original README
+<details>
+<summary>Click to expand original README</summary>
+
 # 🔥 HeatCheck GUI
 
 A lightweight real-time CPU temperature and fan speed monitor for Linux, built in Python using Tkinter and `lm-sensors`.
@@ -54,3 +92,27 @@ python3 sensor-show.py
 ---
 
 **MIT License** | Made with ❤️ for hackers who love their hardware.
+
+</details>
+
+## TODO / Roadmap
+- [ ] Add unit tests
+- [ ] Add LICENSE file
+- [ ] Add requirements.txt or pyproject.toml
+- [ ] Add CI/CD pipeline
+- [ ] Add contribution guidelines (CONTRIBUTING.md)
+- [ ] Improve error handling and edge cases
+- [ ] Add environment variable documentation
+- [ ] Add code comments and inline documentation
+
+## Deployment
+This project can be deployed to Netlify, Vercel, or any static host.
+
+## Author
+**Neal Frazier** - [@AshAmplifies](https://github.com/1nc0gn30)
+
+## Links
+- GitHub: https://github.com/1nc0gn30/sensor-gui
+
+---
+*This README was enhanced as part of the neals-projects-2026 batch update.*
